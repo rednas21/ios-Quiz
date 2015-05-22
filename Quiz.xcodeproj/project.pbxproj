@@ -163,6 +163,7 @@
 		EA2A96B61AF83FCE00CC9896 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = "";
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Sander Peerna";
 				TargetAttributes = {
@@ -418,6 +419,7 @@
 				EA2A96E31AF83FCE00CC9896 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA2A96E41AF83FCE00CC9896 /* Build configuration list for PBXNativeTarget "QuizTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +428,7 @@
 				EA2A96E61AF83FCE00CC9896 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
